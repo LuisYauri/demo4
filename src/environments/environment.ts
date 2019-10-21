@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  api_main : 'http://localhost/october/api/v1/'
+  api_main : 'https://demo4arquitecturasoftware.000webhostapp.com/api/v1/'
 };
 
 /*
